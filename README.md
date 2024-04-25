@@ -3,6 +3,8 @@ Tech Stack - React.js , Node.js , Express.js , Socket.io , MongoDB , Tailwind.cs
 
 Created a chat App using MERN stack and used Socket.io library for real-time bi-directional communication between different users.
 
+Deployment Ready Project - https://github.com/Awesomeap2001/Chat-app-deployed
+
 ## How to run the Project
 There are 2 folders Server and Client.
 

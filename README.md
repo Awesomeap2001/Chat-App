@@ -42,8 +42,8 @@ cd client
 npm run dev
 ```
 
-Note - Client and Server both needs to be running concurrently
+> Note - Client and Server both needs to be running concurrently
 
 Now open any browser and go to this link - http://localhost:5173/
 
-Note - I have not made this Project responsive
+> Note - I have not made this Project responsive
